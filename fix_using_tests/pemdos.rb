@@ -1,8 +1,8 @@
 require 'pry'
 
-def snake_it_up(string)
+def snake_it_up(ssssssssstring)
   if string[10] == "s"
-    "s" + "#{string}"
+    "s" + "#{ssssssssstring}"
   else 
     string 
   end
