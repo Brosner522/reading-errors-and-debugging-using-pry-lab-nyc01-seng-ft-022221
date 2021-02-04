@@ -1,7 +1,7 @@
 require 'pry'
 
-def snake_it_up "surprise!"
+def snake_it_up(string)
   if string[0] == "s"
-    10 * "s" + 
+    10 * "s" + string
   end
 end
